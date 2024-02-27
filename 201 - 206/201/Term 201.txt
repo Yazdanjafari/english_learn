@@ -1,0 +1,87 @@
+------------------------------- session one, two, three, and four -------------------------------
+will(n) = خواستن
+neighbor(n, v) = همسایه 
+classmate(n) = هم کلاسی 
+close friend(n) = دوست صمیمی
+girl friend(n) = دوست دختر 
+boy friend(n) = دوست پسر 
+couple(n) = زوج | رل (کاپِل | kʌpəl)
+boss(adj) = رئیس (باس | bɒs)
+grandson(n) = نوه پسر
+granddaughter(n) = نوه دختر
+grandchildren(n) = نوه
+roommates(n) = هم خانه | هم اتاق (رومِیت | ruːmˌmeɪt)
+gum(n) = آدامس (گام | ɡʌm)
+candy(n) = آبنبات (کَندی | ˈkændi)
+bar(n) = جایگاه
+water bottle(n) = آب معدنی
+hand lotion(n) = لوسیون دست | کرم دست (لوشِن | ləʊʃən)
+umbrella(n) = چتر
+tissue(n) = دستمال کاغذی (تیشیو | tɪʃu)
+hair brush(n) = شانه
+mirror(n) = آینه
+receipt(n) = فاکتور | رسید | قبظ (رِسیت | rɪˈsiːt)
+driver's license(n) = گواهینامه رانندگی 
+cash(n) = پول نقد
+keychain(n) = جا سوییچی
+good louk = موفق باشی
+empty(n, v, adj) = خالی |‌ پوچ (اِپمتی | empti) 
+piece(n) = قطعه |‌ تکه (پیس | piːs)
+broken(adj) = شکسته
+thirsty(adj) = تشنه
+diary(n) = دفتر خاطرات (دایِری | ˈdaɪri)
+gun(n, v) = تفنگ (گان |‌ ɡʌn)
+record(n, v) = ضبط 
+voice = صدا
+possessive(n, adj) : مِلکی (پازِسیو | pəˈzesɪv)
+belong(v) = متعلق
+unusual(v) = غیرمعمول 
+shape = شکل | ترکیب
+wood(n) = چوب
+material(adj) = متریال | مواد  
+device(n) = وسیله
+metal(n, v) = فلز
+flat(v, n, adj) = مسطح، هموار، صاف
+purpose = هدف، مقصود (پِرپِس | pɜːpəs)
+ma'am = خانم
+
+
+چه زمانی از whose استفاده میکنیم ؟
+زمانی که میخواهیم سوالی راجب چیز های ملکی بپرسیم
+for example : 
+whose book is this ? (این کتال برای کیست ؟)
+
+= (normally possessive) = (end of sentences possessive)
+Grammer | person = normally possessive = end of sentences possessive :
+
+me = my = mine
+he = his = his 
+she = her = hers
+it = it's = it's 
+you = your = yours 
+we = our = ours
+they = their = theirs
+
+for example :
+this is my book 
+this book is mine 
+this book belong to me 
+
+hi has a dog 
+his dog is beautiful
+
+they habe Tshert
+their tshert is long
+
+
+
+------------------------------- session five and six -------------------------------
+
+
+
+
+
+
+
+
+

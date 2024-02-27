@@ -1,0 +1,410 @@
+﻿کلمات پر استفاده :
+with : با
+to : به
+for example : برای مثال
+use : استفاده کردن
+give : بده
+also : همچنین
+why : چرا
+where : کجا
+but : اما
+course : البته
+
+
+--------------------------------جلسه اول--------------------------------
+Stairs : راه پله
+step : پله کوتاه (دو سه عدد)
+Elevator , Lift : آسانسور
+Key : کلید
+floor : طبقه | کف زمین
+the top floor : بالا ترین طبقه
+the ground floor : طبقه همکف
+neighbour : همسایه (به همسایه های بقلی گفته میشود)
+Flat: آپارتمان
+Below: بالا
+Building: ساختمان
+Tower: برج
+More: یشتر
+I have من دارم
+There is: وجود دارد
+Living room: حال منزل
+Bedroom: اتاق خواب
+Kitchen: آشپزخانه
+Bathroom: دستشویی خانگی و حمام
+Rest room: دستشویی عمومی
+Wall: دیوار
+Window: پنجره
+Floor: زمین یا کف خانه _ طبقه
+Ceiling: سقف
+Door: در
+Draining area: غذا خوری
+Stairs: راه پله
+Shower: دوش
+Grand floor: هم کف
+Step: پله ، زمانی ک دو سه پله است
+Front door: در اصلی و نما
+Lift, elevator: آسانسور
+Key: کلید
+--------------------------------جلسه دوم و سوم--------------------------------
+Furniture: مبلمان
+Clock:ساعت دیواری 
+Watch: ساعت مچی
+Table:میز استراحت و عذا
+Desk: میز کار یا درس یا ...
+Refrigerate: یخچال
+Tap: شیر شستشو
+Think:   فکر
+Toilet:توالت
+Hanger: جا لباسی
+Blanket:پتو
+Bed:تخت خواب
+Pillow:بالشت
+Bookcase:قفسه کتاب
+Spoon:قاشق
+Fork:چنگال
+Knife: چاقو
+Curtain: پرده
+Carpet:فرش
+Rug:فرش کوچک
+Vase:گلدان
+Couch:مبل کوچک
+Picture: عکس
+Fan:پنکه
+Fire:آتش
+Fire place: شومینه
+Shelf:قفسه
+Corner: گوشه
+Because:زیرا
+--------------------------------جلسه چهارم--------------------------------
+mirror : آینه
+bath tup : وان حمام
+
+I : من
+You : شما یا شماها
+we : ما
+They : آنها
+
+He : او خانم
+She : او آقا
+It : او . اشیاع یا حیوانات
+
+استفاده برای زمان حال :
+
+I + am > I am / I'm :
+
+You + Are > You are / You're :
+We + Are > We are / We're :
+They + Are > They are / They're :
+
+He + Is > He is / He's :
+She + Is > She is / She's :
+It + Is > It is / It's : 
+
+منفی کردن صفات :
+اضافه کردن not به آخرش
+
+I am + not > I'm not  :
+
+You Are + not > You're not (or) You + aren't :
+We Are + not > We're not (or) We+ aren't :
+They Are + not > They're not (or) They + aren't :
+
+He Is + not > He's not (or) He + isn't :
+She Is + not > She's not (or) she + isn't:
+It Is + not > It's not  (or) it + isn't :
+
+نکته : عموما از این استفاده میشود یا شبیه این 
+He's not
+
+مگر ایمکه اشاره مستقیم شده باشد مثل :
+pizza isn't good
+
+For example : 
+He's happy != He's not Happy
+
+I'm programmer != I'm not programmer
+
+You're student != You're not student
+
+سوالی کردن جمله : 
+جابجایی دو فعل اول
+
+Am I beautiful ?   ( Am + I = question | I + am , I'm = Awnser )
+
+Are you readi ? ( Are + you = question | You + are , You're = awnser ) 
+
+Are we student ? ( Are + We = question | We + are , We're = awnser )
+
+Are they  football player ? ( Are + they = question | They + are , They're = awnser )
+
+Is he funny ? ( Is + he = question | He + is , He's = awnser )
+
+Is She boring ? ( Is + She = question | She + is , She's = awnser )
+
+Is it tv ? ( Is + it = question | It is , It's = awnser )
+
+for example :
+He's cool   != Is he cool ? 
+They're Happy != Are they happy ?
+
+اشتباهات پر تکرار :
+نکته : اگر  a میگذارید باید آن را به یک چیز ربط دهید
+
+It's New (True) اون جدیده
+It's a new (False) اون یک جدیده
+It's a new car (True) اون یک ماشین جدیده
+
+my tv is big (True) تلویزیون من بزرگ است
+my tv it is big (False) تلویزیون من او بزرگ است
+it's old (True) اون بزرگه
+
+نکته : اگر خواستید جواب سوالی رابدهید
+اگر جواب مثبت بود باید آن را کامل بگویی و کانترکت نکنی اما اگر منفی بود میتونی کانترمت منی
+
+Are you programmer ?
+Yes I am a ! (Treu)
+Yes I'm a (False)
+No I'm not (True)
+No I am not (True)
+--------------------------------جلسه پنجم--------------------------------
+drinks : نوشیدنی
+coffee : کافی
+cofe : کافه
+tea : چایی
+milk : شیر
+juice : آب میوه
+orange juice : آب پرتقال
+apple juice : آّب سیب
+snack : خوراک مختصر
+cookie : بیسکوییت کوکی
+brownie : کیک براونی 
+biscuit : بیسکوییت
+suger : شکر
+suger cube : قند
+date : خرما / تاریخ / قرار اول
+simetimes : بعضی موقع ها
+tea bag : چای کیسه ای
+sure : حتما
+
+
+what would you like ?
+چی دوست داری ؟
+
+tea or cofee?
+چای یا قهوه ؟
+
+yes please / sure
+بله ممنون
+
+no thanks
+نه ممنون
+
+coffee please !
+قهوه لطفا
+
+sorry . I dont understand . whats (کلمه مورد نظر) ?
+
+ببخشید من نفهمیدم . این کلمه چیست ؟
+--------------------------------جلسه ششم--------------------------------
+informall : غیر رسمی
+formall : رسمی
+dear : عزیز
+owner : صاحب
+Rent : اجاره
+buy : خرید
+place : محل
+people : مردم
+subject : موضوع
+
+what : چه چیزی
+who (people) : چی کسی
+where (place) : کجا
+why  : چرا
+how : چطور
+how many (number) : چند تا
+how old (age) : چند سالته
+
+create question :
+all except how many : question word + to be + subject
+how many : none + to be
+
+for example whare :
+where is it ?
+where is location ?
+where is tehran university ?
+
+for example how many :
+how many bedroom are in the house ?
+how many football player are in the team ?
+
+for example how old :
+how old are you ?
+how old  is she ?
+how old is coach ? 
+
+for example who :
+who are they ?
+who are you ?
+who is he ?
+who is home owner ?
+
+--------------------------------جلسه هفتم--------------------------------
+
+
+
+--------------------------------جلسه هشتم--------------------------------
+agree :
+not agree :
+
+
+--------------------------------جلسه نهم--------------------------------
+like :دوست داشتن
+love : عاشق بودن
+earphone : حنصفری
+want : میخوام
+need : نیاز داشتن 
+starng : عجیب
+simple present : حال ساده
+
+ساخت جمله سیمپل پرزنت :
+simple present
+
+posetive :  sub + verb + ......
+negetive :  sub + dont + verb + ......
+
+I / You / We / They + have / want / need / like / love + laptop
+
+for example : 
+I want a motor siclet
+I have pc
+I dont have laptop
+I need a car
+I love programming
+I like pizza
+
+
+--------------------------------جلسه دهم--------------------------------
+
+I programming my on computer
+I use apps on cell phone
+I read emails on my computer
+I play game on my computer
+I listen to music on my cell phone
+I create website on my computer
+I send message on my cellphone
+I write coding on my laptop
+I chat with friend on the internet
+I call best friend on my cell phone
+
+On  = برای اینکه بگیم کجاس قبلش باید آن بزاریم
+
+
+See =دیدن
+ Look = نگاه کردن
+ What = چی ؟
+ General = عمومی 
+ Plural  = جمع
+Use  = استفاده کردن
+Import = وارد کردن
+Leave = رها کردن - فرستادن
+Also = همچنین
+But = ولی 
+Idea =فکر
+With = با
+to = به
+Give = بده
+
+--------------------------------جلسه یازدهم--------------------------------
+I got it : فهمیدم
+
+نکته برای سوال پرسیدن با استفاده از این کلماتی که در پایین نوشتم از دو استفاده میکنیم
+I - we - you - they
+
+for exaple :
+Do you teacher ?
+Do I beautiful ?
+Do they students ?
+Do we football player ?
+
+sentences negetive with Do :
+I do not (don't) perspolice fan
+we do not (don't) dr
+
+--------------------------------جلسه دوازدهم--------------------------------
+useful : مفید
+communication : ارتباط
+course : البته
+but : اما
+
+انواع ارتباطات
+for example communication  :
+face to face
+call 
+use internet : 
+chat
+video call
+voise
+send photo
+emali
+
+how / what   about you ? : شما چطور ؟
+
+for example :
+how old are you ? (one personal) : چند سالته
+how about you ? (two personal) : شما چطور
+how about you ? (three personal)
+در مثال بالا شما همان سوال چند سالته را از سه نفر پرسیدی 
+
+for example :
+Do you like instagram app ? (one personal) : اپلیکیشن اینستاگرام رو میپسندی 
+How about Telegram ? (one personal) : تلگرام را چطور
+How about facebook ? (one personal)
+در مثال بالا یک سوال را راجب چند اپلیکیشن پرسیدیم
+
+for example :
+Do you programmer ? شما برنامه نویس هستی
+yes I do . Do yo programmer to ? بله . شما هم برنامه نویس هستی
+
+for example :
+Do you real madrid fan ? تو طرفدار رئال مادرید هستی 
+Yes I do . And You ? آٰره . تو چی 
+
+--------------------------------جلسه چهاردهم--------------------------------
+Comfortable: راحت . برای محبوبیت کالا نیز استفاده میشود
+init: شروع
+expensive: گران
+cheap: ارزان
+but: ولی .اما
+reason: دلیل
+reviews: بررسی ها
+reasonable: مسئول
+
+لحن خود را در صحبت های خود بالا و پایین کنید
+
+--------------------------------جلسه پانزدهم--------------------------------
+things = چیزها 
+popular = محبوب
+buy = خرید
+communicate = ارتباط برقرار کردن
+describe = توصیف کنیپ
+ideal = ایده ال
+much = خیلی 
+
+a = normal
+an = next word (a, o, e, i, u)
+
+
+-------------------------------- Finish 102 --------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+

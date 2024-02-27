@@ -1,0 +1,577 @@
+------------------------------- Importent grammar words ------------------------------- 
+with : با
+to : به | تا
+in, on, at = بر |‌ در
+for : برای
+but : اما
+can = میتوانم
+from = در
+by = توسط 
+I have =  من دارم
+There is = وجود دارد
+his = او (مرد)
+her = او (زن)
+so = بنابراین | پس
+as = مثل
+get = گرفتن
+give : دادن
+that = که 
+that's = یعنی
+if = اگر
+do / does = انجام دادن (دومین دو یا داز جمله به این معنی است)
+ago = پیش | قبل ( for example : two day ago = دو روز پیش )
+later (adv) = بعد ( for example : two day later = دو روز بعد )
+there  = آنجا | اینجا
+also : همچنین
+use : استفاده کردن
+well = خوب
+another = یک دیگر
+this = این (برای اشاره به نزدیک | تلفظ : دیس)
+these = این ها (برای اشاره به نزدیک | تلفظ : دیز)
+that = اون (برای اشاره به دور | تلفظ : دَت)
+those =  اون ها (برای اشاره به دور | تلفظ : دوز)
+when = وقتی
+then = سپس
+was = (برای مفرد - در واقع این کلمه برای گذشته است ) = بود | بودم | بودش 
+were = (برای جمع - در واقع این کلمه برای گذشته است ) = بودی | بودند | بودیم  
+was not | wasn't = (برای مفرد - در واقع این کلمه برای گذشته است ) = نبود | نبودم | نبودش 
+were not | weren't = (برای جمع - در واقع این کلمه برای گذشته است ) = نبودی | نبودند | نبودیم 
+wuold(modal verb) = تمایل |‌ خواسته (تلفظ :‌ وود)
+wouldn't (modal verb | contraction : would not) = تمایل نداشتن |‌ نخواستن 
+I'd (contraction : I would) = من تمایل دارم |‌ من میخوام
+so = خیلی
+
+
+------------------------------- Importent words -------------------------------
+say = گفتن
+for example : برای مثال
+Because = زیرا 
+now = الان 
+maybe = شاید
+More = بیشتر
+I mean = بنظرم
+feel = احساس
+in my opinion = به نظر من
+must = باید
+find = پیدا کردن
+Of course : البته
+Yesterday = دیروز
+Tomorrow = فردا
+Importent = مهم
+Sentence / Sentences : جملات / جمله
+busy = شلوغ
+weather = آب و هوا (برای استفاده از هواشناسی)
+air = هوا (برای استفاده کلی)
+sky = آسمان
+earth = زمین
+carefull  = با دقت
+uncle = عمو, دایی
+near = نزدیک
+human = انسان
+people = مردم
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+come = بیا
+all of them = همش
+remember = یاد آوری
+Key : کلید
+floor : طبقه | کف زمین
+Think:   فکر
+snack = میان وعده
+sure : حتما
+buy = خرید
+place = محل
+agree = موافق
+want = میخوام
+need = نیاز داشتن 
+Idea = فکر | ایده
+opinion = نظر
+expensive =  گران
+cheap = ارزان
+things = چیزها 
+popular = محبوب
+useful = مفید
+salesperson = فروشنده
+friendly = دوستانه
+young = جوان
+Positive = مثبت
+negative = منفی
+Opposite = متضاد
+blace you = آفیت باشه 
+goal = هدف
+professional =  حرفه ای
+bread = نان
+sad = غمگین 
+per cent = درصد
+guys = بچه ها
+past = گذشته
+Exactly = دقیقا
+normally = معمولی
+
+
+------------------------------- Question words ------------------------------- 
+why : چرا؟
+where : کجا؟
+Who = چه کسی؟
+what = چی؟ | چه؟ | چیست؟
+when = چه زمانی؟
+How = چطور؟ | چگونه؟
+How many = چند تا؟
+can i = میتونم؟
+do / does = آیا؟ (اولین دو یا داز جمله به این معنی است)
+which = کدام ؟
+whose = مال چه کسی ؟
+whom = چه کسی را ؟
+how long = چه مدت ؟
+
+
+------------------------------- Abbreviation words ------------------------------- 
+going to = gonna 
+want to = wanna
+I would = I'd
+
+
+------------------------------- Question sentences------------------------------- 
+Hwo is your best friend?
+Can i drink a water?
+Where is your favorite cafe?
+what is your name ?
+what do you do?
+Does she know how to play the soccer?
+How old are you ?
+when is your birthday?
+How many soccer players are there?
+Which page ?
+
+
+------------------------------- Idioms english ------------------------------- 
+Jesus Christ = یا عیسی مسیح (برای زمانی که خیلی تعجب کردیم)
+for god sake = محض رضای خدا (نوعی قسم دادن)
+Oh my god = اوه خدای من
+no way = برای زمانی که سورپرایز میشویم (شبیه نه بابا در فارسی)
+I got it = فهمیدم  (برای جاهای رسمی استفاده نمیشود)
+rest in peace (contraction : R.I.P) = روحش شاد | روحش در آرامش 
+take away = بیرون بر (برای غدا استفاده میشود)
+here you are = بفرمایید
+
+
+------------------------------- famous sentences ------------------------------- 
+in my point of view = از نگاه من
+in my book = به اندیشه من
+
+
+------------------------------- bad words ------------------------------- 
+dick = کیر (دِک)
+pussy = کص (پوسی)
+fuck = گاییدن (فاک)
+Son of a bitch = حروم زاده (سان آف اِ بِچ)
+bastard =  حرامزاده (لفظ مودب تر آن) (بَسترِد)
+shit = اَن (شِت)
+Holy shit = پشمام (هولی شِت)
+whore = جنده (هُر)
+faggot = کونی (فگِت)
+whore monger = کصکش (هُرمانگر)
+as skisser = خایه مال (اَس کِسِر)
+dick head = کله کیری (دِک هد)
+Wanker = جقی (وَنکِر)
+Dickish = کیری (دِکِش)
+suck it bitch = بخورش جنده (ساک ایت بِچ)
+seedy = تخمی (سیدی)
+shut up = خفه شو (شات آپ)
+hang over = هنگ : به کسی میگویند که سیاه مست کرده
+
+
+
+------------------------------- clothes vocabulary ------------------------------- 
+clothes = لباس
+socks = جوراب
+shoes = کفش 
+boots = بوت
+flops = دمپایی
+pants = شلوار 
+jeans = شلوار جین (شلوار های جذب)
+shorts = شرتک
+T-shirt = تی شرت
+shirt = پیراهن
+pajamas = پیژامه (لباس راحتی)
+blouse = بلیز
+hoodie = هودی
+jacket = ژاکت (کاپشن)
+sweater = یقه اسکی
+coat = کت
+skirt = دامن
+dress = دامن بلند
+gloves = دستکش
+tie = کروات
+scarf = شال گردن
+glasses = عینک
+sunglasses = عینک آفتابی
+hat = کلاه
+cap = کلاه کپ
+wear = پوشیدن (تلفظ : وِر)
+warm = گرم (معمولا در موضوع لباس استفاده میشود)
+suit = کت و شلوار
+button = دکمه
+uniform = یونیفرم
+pocket = جیب
+collar = یقه
+item of clothing = چند آیتم لباس
+put on = پوشیدن (برای لباس)
+take of = در آوردن (برای لباس)
+
+
+
+------------------------------- good vibe subject ------------------------------- 
+good = خوب
+nice = خوب
+fine = خوب
+great = عالی
+handsome (better for man) = زیبا
+beautiful (better for woman) = زیبا 
+wonderful = فوق العاده 
+cute = بانمک
+cool = باحال
+professional =  حرفه ای
+funny = خنده دار
+strange = عحیب 
+fantastic = خارق العاده
+amazing = شگفت انگیز 
+legend = افسانه ای 
+excellent = عالی 
+carefull  = با دقت
+bravo = آفرین
+
+
+------------------------------- jops ------------------------------- 
+Repairman = تعمیر کار
+programmer = برنامه نویس 
+coach = مربی
+doctor = دکتر
+soccer player = فوتبالیست
+photographer = عکاس
+
+
+
+------------------------------- family vocabulary -------------------------------
+me = من
+father | dad = پدر 
+mather | mom = مادر
+parents = پدر مادر
+sister = خواهر 
+brother = برادر
+husband = همسر (آقا)
+wife = همسر (خانم)
+son = پسر (فرزند)
+daughter =  دختر (فرزند)
+grand father | grandpa = پدر بزرگ
+grand mother | grandma = مادر بزرگ 
+grand parents =  پدر بزرگ و مادر بزرگ
+grand son = نوه پسر
+grand daughter = نوه دختر
+aunt = عمه | خاله
+uncle = عمو | دایی
+nephew = برادر زاده یا خواهر زاده (پسر | تلفظ : نِفیو)
+niece = برادر زاده یا خواهر زاده (دختر | تلفظ : نیس)
+cousin = دختر عمو | پسر عمو | دختر عمه | پسر عمه | دختر دایی | پسر دایی | دختر خاله | پسر خاله
+aunt's husband = شوهر خاله |‌ شوهر عمه
+single = مجرد
+married = متاهل (تلفظ : مَرید)
+
+
+
+------------------------------- clock -------------------------------
+3:30 = it's half past three
+10:00 = it's ten o'clock
+11:15 = it's quarter past eleven
+1:45 = it's quarter to two   
+12:24 = it's twelve, twenty four 
+6:53 = it's six, fifty three
+7:09 = it's seven, oh nine
+
+half = نیم
+past = گذشته
+quarter = ربع
+to = تا |‌ مانده 
+
+
+------------------------------- foodstuffs vocabulary -------------------------------
+Foodstuffs(n) = مواد غذایی (فودستاف)
+
+_____fruit vocabulary_____
+fruit(n) = میوه
+apple(n) = سیب
+banana(n) = موز 
+coconut(n) = نارگیل 
+orange(n) = پرتقال 
+Pineapple(n) = آناناس (پاین اَپل)
+peach(n) = هلو
+pear(n) = گلابی
+tomato(n) = گوجه
+green tomato(n) = گوجه سبز
+lemon(n) = لیمو
+strawberry(n) = توت فرنگی
+Mulberry(n) = توت
+BlackBerry(n) = شاه توت
+blueberry(n) = بلوبری
+grape(n) = انگور
+tangerine(n) = نارنگی (تِنجِرین)
+avocado(n) = آووکادو
+Kiwi(n) = کیوی
+mango(n) = انبه
+cucumber(n) = خیار
+
+_____vegetable vocabulary_____
+vegetable(n) = سبزی (وِجتِبِلز) 
+potato(n) = سیب زمینی
+French fries(n) = سیب زمینی سرخ کرده
+mushroom(n) = قارچ
+garlic(n) = سیر
+onion(n) = پیاز
+lettuce(n) = کاهو (لاتِز)
+cabbage(n) = کلم (کبِج) 
+carrot(n) = هویج
+pepper(n) = فلفل (پِپِر)
+Salt (n) = نمک
+green pepper(n) = فلفل سبز
+frozen(n) = منجمد | یخ
+cook(v) = پختن 
+fresh(adj) = تازه
+rice(n) = برنج
+black beans(n) = لوبیا سیاه
+green beans(n) = لوبیا سبز
+steak(n) = استیک
+soda(n) = نوشابه
+fizzy(adj) = گازدار (منظور :‌ نوشیدنی گازدار)
+dessert(n) = دسر (دیزِرت)
+vegetarian(n, adj) = گیاه خوار 
+prawn(n) = شاه میگو 
+shrimp(n) = میگو
+
+_____animals and meat vocabulary_____
+animals(n) = حیوانات
+cow(n) = گاو (گاو ماده | تلفظ : کَوو)
+sheep(n) = گوسفند
+lamb(n) = بره
+chicken(n) = مرغ
+duck(n) = اردک
+pig(n) = خوک
+fish(n) = ماهی
+meat(n) = گوشت (use general)
+beef(n) = گوشت (گوشت گاو یا گوساله)
+lamb(n) = گوشت (گوشت گوسفند یا بره)
+chicken(n) = مرغ (میتواند برای استفاده از گوشت مرغ باشد)
+duck(n) = اردک (میتواند برای استفاده از گوشت اردک باشد)
+pork(n) = گوشت (گوشت خوک)
+bacon(n) = بیکن
+sausages(n) = سوسیس (ساسِچ)
+
+
+
+------------------------------- Forget words ------------------------------- 
+50 ورب خیلی پر استفاده به این شکل بنویس
+1 = go _ going
+2 = do _ doing
+3 = take _ taking
+4 = drive _ driving
+5 = eat _ eating
+6 = see _ seeing
+7 = hear _ hearing
+8 = speak _ speaking
+9 = read _ reading
+10 = write _ writing
+11 = sing _ singing
+12 = dance _ dancing
+13 = learn _ learning
+14 = teach _ teaching
+15 = work _ working
+16 = study _ studying
+17 = play _ playing
+18 = sleep _ sleeping
+19 = run _ running
+20 = walk _ walking
+21 = love _ loving
+22 = hate _ hating
+23 = talk _ talking
+24 = listen _ listening
+25 = laugh _ laughing
+26 = cry _ crying
+27 = smile _ smiling
+28 = cook _ cooking
+29 = clean _ cleaning
+30 = travel _ traveling
+31 = watch _ watching
+32 = meet _ meeting
+33 = buy _ buying
+34 = sell _ selling
+35 = understand _ understanding
+36 = speak _ speaking
+37 = drive _ driving
+38 = live _ living
+39 = remember _ remembering
+40 = forget _ forgetting
+41 = believe _ believing
+42 = choose _ choosing
+43 = decide _ deciding
+44 = enjoy _ enjoying
+45 = help _ helping
+46 = hurt _ hurting
+47 = need _ needing
+48 = want _ wanting
+49 = like _ liking
+50 = dislike _ disliking
+51 = like (v)
+
+
+------------------------------- simple past verb ------------------------------- 
+Few important word with simple past 'irregular' :
+do / does = did
+be = was / were
+have = had
+can = could (کَد)
+say = said (سِد)
+speak = spoke 
+go = went
+get = got (گات)
+give = gave (گِیو)
+come = came (کِیم)
+see = saw (ساو) 
+make = made
+know = knew (نوُ)
+take = took
+find = found 
+think = thought (فات)
+tell = told
+leave = left
+feel = felt
+keep = kept
+meet = met 
+buy = bought (بات)
+choose = chose (چُس)
+draw  = drew
+drink = drank
+drive = drove
+eat = ate (اِیت)
+fly = flew
+forget = forgot (فورگات)
+mean = met
+run = ran 
+sell = sold
+send = sent
+sing = sang
+sit = sat 
+sleep = slept
+swim = swam
+teach = taught (تات)
+understand  = undrestood
+wake = woke
+wear = wore 
+win = won
+write = wrote (رُت)
+
+Few important word with simple past '-ed' :
+play = played
+work = worked (وُرکد)
+love = loved (لاود)
+live = lived (لیود)
+need = needed (نیدِد)
+want = wanted (وانتِد)
+ask = asked
+stay = stayed
+walk = walked
+talk = talked
+show = showed
+travel = traveled
+
+Few important word with simple past '-d' :
+like = liked (لایکد)
+decide = decided
+arrive = arrived
+
+simple past
+
+Few important word with simple past '-ied' :
+study = studied (اِستادید | stʌdid )
+carry = carried 
+marry = married (مَرید)
+reply = replied 
+enjoy = enjoyed
+try = tried
+apply = applied (اَپلاید)
+copy = copied
+
+Few important word with simple past 'double consonant + ed' :
+stop = stopped
+plan = planned (پِلَند)
+chat = chatted
+
+Few important word with simple past 'Unchanged' :
+cost = cost
+cut = cut 
+put = put
+read = read
+
+
+------------------------------- about grammer ------------------------------- 
+
+__________type sentencec__________
+حال ساده | simple present : در این زمان در مورد اعمال و واقعیت‌های عمومی یا عادات صحبت می‌شود. (I go to the gym every morning.)
+حال استمراری | present continuous : در این زمان در مورد عملی صحبت می‌شود که در حال انجام در حال حاضر است. (She is reading a book right now)
+حال کامل | present perfect : این زمان برای بیان اعمالی استفاده می‌شود که در گذشته آغاز شده و تا حالا ادامه داشته یا به پایان رسیده‌اند. (I have visited Paris)
+حال کامل استمراری | Present perfect continuous : این زمان برای بیان عملی استفاده می‌شود که از گذشته آغاز شده و تا حالا ادامه داشته باشد. (They have been playing tennis all afternoon)
+
+گذشته ساده | Simple past : زمان گذشته ساده برای بیان اعمال یا وقایعی استفاده می‌شود که در گذشته رخ داده و به پایان رسیده‌اند. (She traveled to Japan last year.)
+گذشته استمراری | past continuous : زمان گذشته استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در گذشته در حال ادامه داشته‌اند. (I was studying when the phone rang)
+گذشته کامل استمراری | past Perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در گذشته تا یک زمان خاص ادامه داشته و به پایان رسیده‌اند (He had been working for 10 hours before he took a break)
+گذشته کامل | past Perfect : زمان گذشته کامل برای بیان این استفاده می‌شود که یک عمل در گذشته قبل از یک عمل دیگر آغاز شده و به پایان رسیده است. (By the time she arrived, the movie had already started)
+
+آینده ساده | simple future : زمان آینده ساده برای بیان عملی استفاده می‌شود که در آینده رخ خواهد داد. (I will call you tomorrow)
+آینده استمراری | Continuous future : زمان آینده استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در آینده در حال ادامه خواهد داشت. (This time next week, I will be studying for my exams)
+آینده کامل | future perfect : زمان آینده کامل برای بیان این استفاده می‌شود که یک عمل در آینده تا یک زمان خاصی ادامه داشته و به پایان می‌رسد. (By the time you arrive, I will have finished my work)
+آینده کامل استمراری | Future perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در آینده تا یک زمان خاصی ادامه داشته و به پایان خواهد رسید. (By this time next year, I will have been working here for a decade)
+
+__________type word__________
+فعل | verb: عمل یا کاری که انجام می‌شود (مثال: "is reading" در جمله "John is reading a book.")
+صفت | adjective : ویژگی یا صفتی که به فاعل یا مفعول اضافه می‌شود تا بیان کند چگونه یا چه نوعی هستند. (مثال: "interesting" در جمله "John is reading an interesting book.")
+فاعل | Subject : کسی که عمل را انجام می‌دهد یا به کاری مشغول است (مثال: "John" در جمله "John is reading a book.")
+مفعول | object : مفعول یک نقش گرامری است که توسط یک فعل به عنوان هدف یا مقصد عمل مشخص می‌شود و کاری روی آن انجام میشود (در جمله "John is reading a book."، "book." مفعول است.)
+none : شامل نام ها و ماشین ها و حیوان ها و شهر و کشور ها و ...
+pronone :  I, he, she, it, you, we, they
+
+
+
+------------------------------- english formulas ------------------------------- 
+ING :
+make sentences with ING : Subject + Tobe + verb(ing) + ...
+make negative sentences with ING : Subject + Tobe + not + verb(ing) + ...
+make question sentences with ING : WH question + Tobe + sub +  verb(ing) + ?
+
+Going to :
+Normal simple future : Subject + ToBe + going to | gonna + simple verb
+Negative simple future : Subject + ToBe + not + going to | gonna + simple verb
+Question simple future : wh question + ToBe + Subject +  going to | gonna + simple verb
+
+Was, Were :
+make sungular sentences with Was, Were : (I, He, She, It) OR (You, We, They) + (Was) OR (Were) + sub + ... 
+make negative sentences with Was, Were  : (I, He, She, It) OR (You, We, They) + (Was not | Wasn't) OR (Were not | Weren't) + sub + ...
+make sentences with ing with Was, Were : (I, He, She, It) OR (You, We, They) + (Was) OR (Were) + verb(ing) + ...
+make WH question sentences with Was, Were : WH word + (Was) OR (Were) + (I, He, She, It) OR (You, We, They) + sub + ?
+
+Simple past (Did) :
+make sentences with simple past : subject + simple past verb
+make negative sentences with simple past : subject + did not | didn't + simple verb (normaly verb)
+make question sentences with simple past : did + subject + simple verb (normaly verb)
+
+Would :
+make sentences with would : subject + would + ...
+make negative sentences with would not : subject + wouldn't or would not + ...
+make question sentences with would : wh question + would + subject + ...
+
+
+
+

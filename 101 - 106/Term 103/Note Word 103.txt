@@ -1,0 +1,522 @@
+------------------------------- Importent words ------------------------------- 
+with : با
+to : به
+for example : برای مثال
+use : استفاده کردن
+give : بده
+also : همچنین
+but : اما
+course : البته
+for = برای
+from = در
+Yesterday = دیروز
+Tomorrow = فردا
+Importent = مهم
+Sentence / Sentences : جملات / جمله
+then = سپس
+by = توسط 
+More = یشتر
+I have =  من دارم
+so = بنابراین
+as = مثل
+setion = جلسه
+that = که 
+that's = یعنی
+
+------------------------------- question words ------------------------------- 
+why : چرا؟
+where : کجا؟
+Hwo = چه کسی؟
+what = چی؟ | چه؟
+when = چه زمانی؟
+How = چطور؟ | چگونه؟
+How many = چند تا؟
+can i = میتونم؟
+
+------------------------------- First setion -------------------------------
+Importent = مهم
+Evening = عصر
+At 16 to 18 = ساعت ۴ تا ۶
+Lunch = ناهار
+Return = برگشت
+Morning = صبح
+Noon / After noon = ظهر / بعد از ظهر
+Week = هفته
+Weekend = آخر هفته
+Weekdays = روز های هفته 
+Even days = روز های زوج
+Odd days = روز های فرد
+Every days = هر روز
+All days = هر روز
+Stody = مطالعه
+Yesterday = دیروز
+Tomorrow = فردا
+From = در
+Ever : همیشه
+Often : غالبا
+Hardly = به ندرت
+
+Note = Leter"a, e, o, u, i" about "the" : تلفظ در این موارد دِ است
+For exaple = the about : دی اباوت
+
+Weekdays from sunday : Sunday - Monday - Tuesday - Wednesday - Thursday - Friday - Saturday
+
+In = Morning, Afternoon, Evening
+At = Night, Time (for example : At 9:30 am)
+On = Weekend, Weekdays, Every days, Sunday to Saturday
+
+Months:
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
+Seasons:
+Spring = بهار
+Summer = تابستان 
+Autumn = پاییز 
+Winter = زمستان
+
+Special number = 
+First 1
+Second 2
+Third 3
+Fourth 4
+fifth 5
+sixth 6
+seventh 7
+eighth 8 
+ninth 9
+tenth 10
+eleventh 11
+twelfth 12 
+thirteenth 13
+fourteenth 14
+fifteenth 15
+sixteenth 16
+seventeenth 17
+eighteenth 18
+nineteenth 29
+twentieth 20
+twentieth first 21
+and more ...
+thirtieth 30
+thirtieth first 31
+and more ...
+
+------------------------------- Second setion -------------------------------
+Take = گرفتن
+Always = همیشه
+Usually = معمولا
+Often = غالبا
+Sometimes= بعضی موقع ها
+Hardly = به ندرت
+Never= هیچوقت / هرگز
+can I ? = میتونم؟
+
+
+for example :
+take a shower
+take a photo
+take a taxi
+take a videos
+
+--Diffrent Do and Does :--
+
+Do = I, You, We, They
+Does = He, She, It
+
+__Do :__
+I go to university (+)
+I don't go to university (-)
+
+You go to university (+)
+You don't go to university (-)
+
+We go to university (+)
+We don't go to university (-)
+
+They go to university (+)
+They don't go to university (-)
+
+__Does :__
+He goes to university (+)
+He doesn't go to university (-)
+
+She goes to university (+)
+She doesn't go to university (-)
+
+It goes to university (+)
+It doesn't go to university (-)
+
+Note : verb + es
+
+Sentences question : 
+A) I'm study programming 
+B) Do you study programming ?
+A) Yes I do / No I don't
+____
+A) He works in a bank
+B) Does He work in a bank ?
+A) Yes he does / No he doesn't
+
+Note : in posetive sentences verb + s or es
+for example : He works , She goes 
+
+در سه جا از افعال کمکی دو و داز استفاده میکنیم :
+Question sentences + Negetive sentences + Short awnser after Do/Does qoestion
+
+Note ) if sentences start with does , "es" verb is removed
+
+------------------------------- Third setion -------------------------------
+Between = بین
+went = رفت
+Equal = مساوی 
+Correct = درست
+Which = کدام ؟
+Tooth = دندان
+Brush tooth = مسواک زدن
+Midnight = نیمه شب
+
+thanks (a) = تشکر
+your welcome (b) = خواهش میکنم
+
+Word in use Clock :
+Quarter = ربع
+Half = نیم
+After, Past = بعد
+To = تا
+O'clock = راس
+Minutes = دقیقه
+
+2:00 = It's two o'clock
+2:07 = It's two-oh-seven 
+2:15 = It's quarter after two
+2:26 = It's  two twenty-six
+2:30 = It's half after two
+2:45 = It's quarter to three
+2:55 = It's two fifty-five _ It's five minutes to three
+
+------------------------------- Fourth setion -------------------------------
+math = ریاضی
+sum = جمع
+early = زود
+exam = امتحان
+how = چطور ـ چگونه ؟
+ever = همیشه
+never = هیچوقت
+when = کی ؟
+where = کجا ؟
+
+Diffrent do, does :
+
+do : I, You, We, They
+does : he, she, it
+
+do = sum  : programmers, aounts, parents, sisters, brothers, students
+does = single : programmer, aount, parent, sister, brother, student
+
+for "he, she, it" = have (false) _ has (true)
+for example : He has sister
+
+نکته مهم : داز برای سوم شخص استفاده میشه و دو برای اول و دوم شخص
+for example : does your friend play basketball ?
+
+نکته : فرندز در اینجا مانند همان هی یا شی است چون سوم شخصه و الان بین ما نی و ما داریم راجب او حرف میزنیم
+نکته : در اصل داز برای مفرده و دو برای جمعه
+
+Note :
+I have lunch (true)
+I eat lunch (false)
+معنی هر دو :‌ من ناهار میخورم
+
+------------------------------- Fifth setion -------------------------------
+lot = مقدار زیادی
+good luck = موفق باشی
+
+نکته : اگر جمله از جنس داز باشد اما داز نداشته باشد فعل اصلی جمله اس میگیرد اما اگر با داز شروع شود دیگر نیازی نیست اما هو میشه هز و دونت میشه دازنت
+نکته : هر اسمی میاید شما باید در ذهن خود تبدیل کنید به فعل هایی مثل هی شی ایت یا آی ...
+For example : 
+verb : i, you, we, they, he, she, it
+friend = he, she,
+friends = they
+student = he, she
+parents = they
+programmer = he, she
+soccer players = they
+
+Importent Sentences :
+I agree () = موافقم
+thats true () = درست میگی
+thats right () = درست میگی 
+I know () = میدونم
+me too () = منم همینطور
+me neither () = من هم نه
+
+------------------------------- sixth setion -------------------------------
+report = گزارش
+by = توسط 
+some = مقداری
+zoo = باغ وحش
+say = گفتن
+play = بازی
+busy = مشغول
+then = سپس
+article = مقاله
+
+time = at
+part of day = in
+day = on
+
+for example : 
+on friday
+in the afternoon
+at 9:00 am
+
+------------------------------- Seventh setion -------------------------------
+can = میتوانم
+i can = من میتوانم ! 
+can i = من میتوانم ؟
+farm = مزرعه
+weather = هوا
+choice = انتخاب
+compar = مقایسه
+travel = مسافرت
+imagine = تصور کردن
+prepare = آماده کردن
+discuss = بحث, گفتگو
+decide = تصمیم گرفتن
+everyone = هرکس
+verb = فعل
+Tired = خسته
+walk = راه رفتن
+carefull  = با دقت
+
+نکته : به طور معمول در گفتن ساعت از پی ام و ای ام استفاده نمیکنند و از پارت دی استفاده میشه
+for example : 
+A : what time is it ?
+B : It's quarter after four in the after noon
+
+فعل چیست ؟  verb
+به کاری که انجام میشود فعل میگویند مانند دویدن یا تمرین کردن یا درس خواندن
+
+adverb چیست؟ 
+ادورب‌ها به ما کمک می‌کنند که بفهمیم چگونه، کجا، چقدر، چرا، یا به چه شدت یک عمل انجام شده یا یک وضعیت وجود دارد.
+
+I + verb + time + part of time
+I + adv + verb + time + part of time
+
+for example :
+I play soccer on wednesday and thursday at night
+I carefully finished my homework yesterday evening.
+
+diffrent I and My :
+I : در زمان حال میاید و معمولا با فعل استفاده میشود
+My : برای مالکیت استفاده میشود
+
+for example : 
+I play soccer
+Where is my cell phone ?
+
+
+------------------------------- eighth setion -------------------------------
+so = بنابراین
+food truch = غذای خیابانی
+uncle = عمو, دایی
+aunt's husband = شوهر خاله |‌ شوهر عمه
+aunt = عمه, خاله, زنمو, زندایی
+Grand mother = مادر بزرگ
+grand father = پدر بزرگ
+cousin = دختر عمو,  دختر دایی,  دختر خاله,  دختر  دایی, پسر عمو,  پسر دایی,  پسرخاله,  پسر دایی 
+nice = خوب
+good = خوب
+very = خیلی
+great = عالی
+excellent = عالی
+
+
+all part of they = in 
+except      noon, night, midnight = at
+
+صفت چیست؟
+به‌طورکلی، صفت (adjective) کلمه‌ای است که توضیح و اطلاعات بیشتری درباره اسم (noun) یا ضمیر(pronoun) به ما می‌دهد. توجه کنید که صفت، فقط اسم و ضمیر را توصیف می‌کند.
+
+در انگلیسی اول کلمه میاید و سپس صفت میاید
+for example : Valiasr Street
+Valiasr = word
+Street = Adjective
+
+
+------------------------------- nighth setion -------------------------------
+snow = برف
+river = رود خانه
+mountains = کوه
+beach = ساحل
+ocean = اقیانوس
+island = جزیره
+forest = جنگل
+lake = دریاچه
+tree = درخت
+grass = چمن
+plants = گیاهان
+flower = گل
+desert = بیابان
+hill = تپه
+Sea = دریا
+year = سال
+ago = پیش ( for example : two day ago = دو روز پیش )
+
+
+------------------------------- tenth setion -------------------------------
+no way = نه بابا (یک اصطلاح است و زمانی که سورپراز میشوید یا یکچیز جالب میشنوید میتوانید استفاده کنید)
+rain = باران
+plural = جمع
+near = نزدیک
+same = یکسان
+terrible = متنفر ـ خیلی بد ـ افتضاح (یک اصطلاح است) 
+there's nothing =  هیچی نیست (یک اصطلاح است)
+safe = بی خطر
+dangerous = خطرناک
+movie theater = سینما
+theater = تئاتر
+castle = قلعه
+palace = قصر 
+church = کلیسا
+bridge = پل
+square = مربع
+tower = برج
+some = مقداری (برای مقدار کم استفاده میشود)
+lot = مقدار زیادی
+
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+
+There is (There's) = no, a, an
+There are = some, lot, nomber
+در واقع ایز برای یک یا صفر است و آر برای مقدار زیاد تری است
+
+for example :
+There's no clup in Tehran
+There's a window in my bedroom
+There are some gyms in the near Enghelab squre
+There are a lot of cafes in the theater shahr station
+There are five benz sls in tehran
+
+
+------------------------------- eleventh setion -------------------------------
+deep = عمیق
+sky = آسمان
+earth = زمین
+pegion = منطقه یا ناحیه
+rock = سنگ
+human = انسان
+stay = اقامت کردن
+point = نقطه (برای ممیز هم استفاده میشود)
+nature = طبیعت (تلفظ = نِیچِر)
+soccer court = زمین فوتبال (نکته : کورت خالی به معنای دادگاه است و با یک ورزش بیاید به معنای زمین آن ورزش میشود)
+
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+
+بعضی از کلماتی که جمع نمیشوند : air, suger, grass
+
+------------------------------- twelfth setion -------------------------------
+street = خیابان
+square = میدان
+near = نزدیک
+left = چپ
+right = راست
+last = آخرین یا آخر
+below = زیر
+bird = پرنده
+waterfall = آبشار
+famous = معروف
+statue = مجسمه
+opinion = نظر
+part = بخش
+season = فصل
+Dead End = بن بست
+Alley = کوچه
+station = جلسه
+come = بیا
+
+اصطلاحات و جملات مسیر دهی :
+go straight = مستقیم برو
+It's that way = همینجاس
+then turn left = سپس به چپ برو 
+go on block = برو یک ساختمان جلوتر
+It's on the left = در سمت چپ است
+Karegar street = خیابان کارگر 
+Enghelab square = میدان انقلاب
+Meraj alley = کوچه معراج
+
+adjective (صفت) :
+به‌طورکلی، صفت (adjective) کلمه‌ای است که توضیح و اطلاعات بیشتری درباره اسم (noun) یا ضمیر(pronoun) به ما می‌دهد. توجه کنید که صفت، فقط اسم و ضمیر را توصیف می‌کند.
+ 
+verb (فعل) :
+به کاری که انجام میشود فعل میگویند مانند دویدن یا تمرین کردن یا درس خواندن
+
+adverb (قید) :
+ادورب‌ها به ما کمک می‌کنند که بفهمیم چگونه، کجا، چقدر، چرا، یا به چه شدت یک عمل انجام شده یا یک وضعیت وجود دارد.
+
+in formal sentences dont use :
+Contraction      for example : I'm (False) _ I am (True)
+
+for use adjective :
+adj opinion + adj size
+
+in formal sentences dont use "really" but use "very" !
+
+------------------------------- thirteenth setion -------------------------------
+naibarhood = همسایگی |‌ نزدیکی
+all of them = همش
+that = که 
+that's = یعنی
+near = نزدیک
+Hwo = چه کسی؟
+
+use "ing" = alweys after "for"
+for example : I go to caffee for drinking cafe
+
+
+
+------------------------------- fourteenth setion -------------------------------
+dam = سد
+remember = یاد آوری
+penguins = پنگوئن ها
+seals = فُک
+volcano = آتشفشان 
+hiking = پیاده روی
+climbing = سنگ نوردی
+kind = نوع
+statues = مجسمه  
+giant = غول | عظیم الجسه
+many = زیاد
+
+
+
+------------------------------- exam 103 -------------------------------
+actual = واقعی (اکچول)
+holiday = تعطیلات 
+vegetables = سبزیجات
+garden = باغ
+stay = اقامت کردن
+over there = در آنجا
+dry = خشک
+common = مشترک
+
+
+
+------------------------------- finish 103 -------------------------------

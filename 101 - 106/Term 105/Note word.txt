@@ -1,0 +1,790 @@
+------------------------------- Importent grammar words ------------------------------- 
+with : با
+to : به | تا
+in, on, at = بر |‌ در
+for : برای
+but : اما
+can = میتوانم
+from = در
+by = توسط 
+I have =  من دارم
+There is = وجود دارد
+his = او (مرد)
+her = او (زن)
+so = بنابراین | پس
+as = مثل
+get = گرفتن
+give : دادن
+that = که 
+that's = یعنی
+if = اگر
+do / does = انجام دادن (دومین دو یا داز جمله به این معنی است)
+ago = پیش | قبل ( for example : two day ago = دو روز پیش )
+there  = آنجا | اینجا
+also : همچنین
+use : استفاده کردن
+well = خوب
+another = یک دیگر
+this = این (برای اشاره به نزدیک | تلفظ : دیس)
+these = این ها (برای اشاره به نزدیک | تلفظ : دیز)
+that = اون (برای اشاره به دور | تلفظ : دَت)
+those =  اون ها (برای اشاره به دور | تلفظ : دوز)
+when = وقتی
+then = سپس
+
+------------------------------- Importent words -------------------------------
+say = گفتن
+for example : برای مثال
+Because = زیرا 
+now = الان 
+maybe = شاید
+More = بیشتر
+I mean = بنظرم
+feel = احساس
+in my opinion = به نظر من
+must = باید
+find = پیدا کردن
+Of course : البته
+Yesterday = دیروز
+Tomorrow = فردا
+Importent = مهم
+Sentence / Sentences : جملات / جمله
+Episode = قسمت
+Season = (تلفظ : سیزن)  فصل 
+session =  (تلفظ : سشن) جلسه
+Part = بخش
+busy = شلوغ
+weather = آب و هوا (برای استفاده از هواشناسی)
+air = هوا (برای استفاده کلی)
+sky = آسمان
+earth = زمین
+carefull  = با دقت
+uncle = عمو, دایی
+aunt's husband = شوهر خاله |‌ شوهر عمه
+aunt = عمه, خاله, زنمو, زندایی
+Grand mother = مادر بزرگ
+grand father = پدر بزرگ
+cousin = دختر عمو,  دختر دایی,  دختر خاله,  دختر  دایی, پسر عمو,  پسر دایی,  پسرخاله,  پسر دایی 
+husband = همسر (آقا)
+wife = همسر (خانم)
+near = نزدیک
+human = انسان
+people = مردم
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+last = آخرین یا آخر
+come = بیا
+naibarhood = همسایگی |‌ نزدیکی
+all of them = همش
+kind = نوع
+remember = یاد آوری
+Key : کلید
+floor : طبقه | کف زمین
+Think:   فکر
+snack = میان وعده
+sure : حتما
+informall = غیر رسمی
+formall = رسمی
+owner = صاحب
+buy = خرید
+place = محل
+agree = موافق
+want = میخوام
+need = نیاز داشتن 
+Idea = فکر | ایده
+opinion = نظر
+expensive =  گران
+cheap = ارزان
+things = چیزها 
+popular = محبوب
+useful = مفید
+capital city = پایتخت
+salesperson = فروشنده
+friendly = دوستانه
+young = جوان
+Positive = مثبت
+negative = منفی
+Opposite = متضاد
+blace you = آفیت باشه 
+goal = هدف
+professional =  حرفه ای
+bread = نان
+sad = غمگین 
+per cent = درصد
+
+------------------------------- Question words ------------------------------- 
+why : چرا؟
+where : کجا؟
+Who = چه کسی؟
+what = چی؟ | چه؟ | چیست؟
+when = چه زمانی؟
+How = چطور؟ | چگونه؟
+How many = چند تا؟
+can i = میتونم؟
+do / does = آیا؟ (اولین دو یا داز جمله به این معنی است)
+which = کدام ؟
+whose = مال چه کسی ؟
+whom = چه کسی را ؟
+how long = چه مدت ؟
+
+------------------------------- Question sentences------------------------------- 
+Hwo is your best friend?
+Can i drink a water?
+Where is your favorite cafe?
+what is your name ?
+what do you do?
+Does she know how to play the soccer?
+How old are you ?
+when is your birthday?
+How many soccer players are there?
+Which page ?
+
+------------------------------- Idioms english ------------------------------- 
+Jesus Christ = یا عیسی مسیح (برای زمانی که خیلی تعجب کردیم)
+for god sake = محض رضای خدا (نوعی قسم دادن)
+Oh my god = اوه خدای من
+no way = برای زمانی که سورپرایز میشویم (شبیه نه بابا در فارسی)
+your welcome = خواهش میکنم
+It's that way = همینجاهاس
+terrible = متنفر ـ خیلی بد ـ افتضاح 
+
+
+------------------------------- bad words ------------------------------- 
+dick = کیر (دِک)
+pussy = کص (پوسی)
+fuck = گاییدن (فاک)
+Son of a bitch = حروم زاده (سان آف اِ بِچ)
+shit = اَن (شِت)
+Holy shit = پشمام (هولی شِت)
+whore = جنده (هُر)
+faggot = کونی (فگِت)
+whore monger = کصکش (هُرمانگر)
+as skisser = خایه مال (اَس کِسِر)
+dick head = کله کیری (دِک هد)
+Wanker = جقی (وَنکِر)
+Dickish = کیری (دِکِش)
+suck it bitch = بخورش جنده (ساک ایت بِچ)
+seedy = تخمی (سیدی)
+shut up = خفه شو (شات آپ)
+
+
+------------------------------- clothes vocabulary ------------------------------- 
+clothes = لباس
+socks = جوراب
+shoes = کفش 
+boots = بوت
+flops = دمپایی
+pants = شلوار 
+jeans = شلوار جین (شلوار های جذب)
+shorts = شرتک
+T-shirt = تی شرت
+shirt = پیراهن
+pajamas = پیژامه (لباس راحتی)
+blouse = بلیز
+hoodie = هودی
+jacket = ژاکت (کاپشن)
+sweater = یقه اسکی
+coat = کت
+skirt = دامن
+dress = دامن بلند
+gloves = دستکش
+tie = کروات
+scarf = شال گردن
+glasses = عینک
+sunglasses = عینک آفتابی
+hat = کلاه
+cap = کلاه کپ
+wear = پوشیدن (تلفظ : وِر)
+warm = گرم (معمولا در موضوع لباس استفاده میشود)
+suit = کت و شلوار
+button = دکمه
+uniform = یونیفرم
+pocket = جیب
+collar = یقه
+item of clothing = چند آیتم لباس
+put on = پوشیدن (برای لباس)
+take of = در آوردن (برای لباس)
+
+
+------------------------------- Forget words ------------------------------- 
+Episode = قسمت
+Season = (تلفظ : سیزن)  فصل 
+session =  (تلفظ : سشن) جلسه
+Part = بخش
+Autumn = پاییز 
+article = مقاله
+compare = مقایسه
+prepare = آماده کردن
+discuss = بحث, گفتگو
+decide = تصمیم گرفتن
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+statue = مجسمه
+dam = سد
+volcano = آتشفشان 
+hiking = پیاده روی
+climbing = سنگ نوردی
+Hanger = جا لباسی
+Blanket = پتو
+Pillow = بالشت
+Wall: دیوار
+Ceiling: سقف
+
+
+------------------------------- Forget words ------------------------------- 
+50 ورب خیلی پر استفاده به این شکل بنویس
+1 = go _ going
+2 = do _ doing
+3 = take _ taking
+4 = drive _ driving
+5 = eat _ eating
+6 = see _ seeing
+7 = hear _ hearing
+8 = speak _ speaking
+9 = read _ reading
+10 = write _ writing
+11 = sing _ singing
+12 = dance _ dancing
+13 = learn _ learning
+14 = teach _ teaching
+15 = work _ working
+16 = study _ studying
+17 = play _ playing
+18 = sleep _ sleeping
+19 = run _ running
+20 = walk _ walking
+21 = love _ loving
+22 = hate _ hating
+23 = talk _ talking
+24 = listen _ listening
+25 = laugh _ laughing
+26 = cry _ crying
+27 = smile _ smiling
+28 = cook _ cooking
+29 = clean _ cleaning
+30 = travel _ traveling
+31 = watch _ watching
+32 = meet _ meeting
+33 = buy _ buying
+34 = sell _ selling
+35 = understand _ understanding
+36 = speak _ speaking
+37 = drive _ driving
+38 = live _ living
+39 = remember _ remembering
+40 = forget _ forgetting
+41 = believe _ believing
+42 = choose _ choosing
+43 = decide _ deciding
+44 = enjoy _ enjoying
+45 = help _ helping
+46 = hurt _ hurting
+47 = need _ needing
+48 = want _ wanting
+49 = like _ liking
+50 = dislike _ disliking
+
+
+------------------------------- about grammer ------------------------------- 
+
+__________type sentencec__________
+حال ساده | simple present : در این زمان در مورد اعمال و واقعیت‌های عمومی یا عادات صحبت می‌شود. (I go to the gym every morning.)
+حال استمراری | present continuous : در این زمان در مورد عملی صحبت می‌شود که در حال انجام در حال حاضر است. (She is reading a book right now)
+حال کامل | present perfect : این زمان برای بیان اعمالی استفاده می‌شود که در گذشته آغاز شده و تا حالا ادامه داشته یا به پایان رسیده‌اند. (I have visited Paris)
+حال کامل استمراری | Present perfect continuous : این زمان برای بیان عملی استفاده می‌شود که از گذشته آغاز شده و تا حالا ادامه داشته باشد. (They have been playing tennis all afternoon)
+
+گذشته ساده | Simple past : زمان گذشته ساده برای بیان اعمال یا وقایعی استفاده می‌شود که در گذشته رخ داده و به پایان رسیده‌اند. (She traveled to Japan last year.)
+گذشته استمراری | past continuous : زمان گذشته استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در گذشته در حال ادامه داشته‌اند. (I was studying when the phone rang)
+گذشته کامل استمراری | past Perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در گذشته تا یک زمان خاص ادامه داشته و به پایان رسیده‌اند (He had been working for 10 hours before he took a break)
+گذشته کامل | past Perfect : زمان گذشته کامل برای بیان این استفاده می‌شود که یک عمل در گذشته قبل از یک عمل دیگر آغاز شده و به پایان رسیده است. (By the time she arrived, the movie had already started)
+
+آینده ساده | simple future : زمان آینده ساده برای بیان عملی استفاده می‌شود که در آینده رخ خواهد داد. (I will call you tomorrow)
+آینده استمراری | Continuous future : زمان آینده استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در آینده در حال ادامه خواهد داشت. (This time next week, I will be studying for my exams)
+آینده کامل | future perfect : زمان آینده کامل برای بیان این استفاده می‌شود که یک عمل در آینده تا یک زمان خاصی ادامه داشته و به پایان می‌رسد. (By the time you arrive, I will have finished my work)
+آینده کامل استمراری | Future perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در آینده تا یک زمان خاصی ادامه داشته و به پایان خواهد رسید. (By this time next year, I will have been working here for a decade)
+
+__________type word__________
+فعل | verb: عمل یا کاری که انجام می‌شود (مثال: "is reading" در جمله "John is reading a book.")
+صفت | adjective : ویژگی یا صفتی که به فاعل یا مفعول اضافه می‌شود تا بیان کند چگونه یا چه نوعی هستند. (مثال: "interesting" در جمله "John is reading an interesting book.")
+فاعل | Subject : کسی که عمل را انجام می‌دهد یا به کاری مشغول است (مثال: "John" در جمله "John is reading a book.")
+مفعول | object : مفعول یک نقش گرامری است که توسط یک فعل به عنوان هدف یا مقصد عمل مشخص می‌شود و کاری روی آن انجام میشود (در جمله "John is reading a book."، "book." مفعول است.)
+
+
+__________third person__________
+this is man says about university | نکته : اگر در جملات از سوم شخص استفاده کنیم باید فعلمان حروف اس بگیرد 
+
+
+
+__________Do/Does Or tobe?__________
+do you go school ? | زمانی از دو و داز استفاده میکنیم که در جمله یک فعل اصلی داریم
+Are they student ? | اگر در جمله سوالی فعل وجود نداشت از توبی ها استفاده میکنیم
+
+
+__________simple future (going to)__________
+Normal simple future :
+Subject + ToBe + going to | gonna + simple verb
+Negative simple future :
+Subject + ToBe + not + going to | gonna + simple verb
+note : gonna = going to
+
+
+__________like to, need to, want to, have to __________
+grammer note : 
+when use this words : like, need, want, have
+if after top words there is "verb" must use "to" | top words + to + simple verb | for example : I like to drive with germany cars .
+bot if after top words there is "noun" write normal | top words + noun | for example : I like germany car .
+
+Positive sentences when use this words : like, need, want, have :
+with use do, does | for example : I don't want to run because I'm sick 
+
+Question sentences when use this words : like, need, want, have :
+with use do, does | for example : when do you need drive with car ?   OR   Do you want to train to gym or at home ? 
+
+------------------------------- session one and two -------------------------------
+this = این (برای اشاره به نزدیک | تلفظ : دیس)
+these = این ها (برای اشاره به نزدیک | تلفظ : دیز)
+that = اون (برای اشاره به دور | تلفظ : دَت)
+those =  اون ها (برای اشاره به دور | تلفظ : دوز)
+climb = سخره نورد
+horizan = افق
+sunrise = طلوع خورشید
+sunset = غروب خورشید
+desert = کویر
+travel diary = دفتر خاطرات سفر
+vacation | holiday = تعطیلات
+air plane | plane = هواپیما
+countryside = حومه شهر 
+horse = اسب
+ranch = مزرعه پرورش اسب
+boat = قایق
+town = شهر کوچک
+tour = تور مسافرت
+guide = راهنما (فقط برای توریست ها و راهنمای شهر و کشور است)
+glossary = لغت نامه
+begin = قبل | شروع
+institute = موسسه | آموزشگاه
+lazy = تنبل
+sight seeing = تماشا منظره
+look round = تماشا اطراف
+get lost = گم شده
+prefer = ترجیح
+whose = مال چه کسی ؟
+whom = چه کسی را ؟
+how long = چه مدت ؟
+
+
+
+
+make 5 sentences with "this" :
+1 = This is a subway
+2 = This carpet is beautiful
+3 = This is man says about university
+4 = This is plays soccer 
+5 = This keyboard is mecanical and good
+
+make 5 sentences with "these" :
+1 = These are earphones
+2 = These balls are for soccer
+3 = These are beautiful cat 
+4 = These phones are very expensive
+5 = These are funny
+
+make 5 sentences with "that" :
+1 = That is very beautiful Bmw z4 
+2 = That air plane is very big
+3 = That is Cristinano Ronaldo
+4 = That car is 405
+5 = That is funny person
+
+make 5 sentences with "those" :
+1 = Those are soccer player  
+2 = Those are food truck
+3 = Those are students 
+4 = Those cuntry are very good and happy
+5 = Those people are very kind 
+
+make 5 question sentences with "this, these" :
+1 = Is this black or gray ?
+2 = Is this fuuny ?
+3 = Is this VScode app ?
+4 = Are these chair or sofa ?
+5 = Are these student ?
+6 = Are these employees ?
+
+make 5 question sentences with "that, those" :
+1 = Is that Esteghlal team or Chelsi ?
+2 = Is that pizza ?
+3 = Is that evolve one or two ?
+4 = Are those tablet or laptap ?
+5 = Are those sads ?
+6 = Are those programmer ?
+
+make 5 question sentences with "do" :
+1 = Do you go school ?
+2 = Do they train ?
+3 = Do we study english ?
+4 = Do I good play soccer ?
+5 = Do you remember about one year ago?
+
+make 5 question sentences with "does" :
+1 = Does your friend good soccer player?
+2 = Does he take photo or video ?
+3 = Does it dog or wolf ?
+4 = Does she actor ?
+5 = Does mehdi is take exam ?
+
+make 5 question sentences with "wh question" :
+1 = What are you going ?
+2 = Where is your university ?
+3 = What does Nima do ?
+4 = Who is Mehdis teacher ?
+5 = When is Saeid come  ?
+
+make 5 question sentences with "Tobe words" :
+1 = Are you teacher ?
+2 = Is this dog beautiful ?
+3 = Are they student ? 
+4 = Is Maryam funny ?
+5 = Am I cool ?
+
+
+make 5 question sentences with "can" :
+1 = Can I drink water ?
+2 = Can you speak english ?
+3 = Can Fatemeh plays ufc ?
+4 = Can we sleep ?
+5 = Can't they go to the pool ?
+
+make 5 sentences with "can" :
+1 = I can play soccer 
+2 = I can speck english and persian language
+3 = We can't swim well 
+4 = Yasna can play football game 
+5 = They can't win game
+
+make 5 sentences with "ing" :
+1 = I'm going to subway
+2 = I'm cleaning my bedroom
+3 = you're programming well
+4 = I'm teaching python
+5 = she's going to english class
+
+
+
+------------------------------- session three and four -------------------------------
+suitcase = چمدان
+pack = بسته بندی
+destination = مقصد
+leave (v) = ترک
+air port = فرودگاه
+flight = پرواز (زمانی که سوار بر چیز غیر طبیعی مثل هواپیما هستیم)
+have to = باید
+necessary = لازم
+dress = لباس
+wear = پوشیدن
+warm (just for dress) = گرم
+seats = صندلی
+ask = پرسیدن
+way / ways = مسیر / مسیرها
+polluted = آلوده
+lesson = درس
+listen = گوش دادن
+
+grammer,  like to, need to, want to, have to : 
+when use this words : like, need, want, have
+if after top words there is "verb" must use "to" | top words + to + simple verb | for example : I like to drive with germany cars .
+bot if after top words there is "noun" write normal | top words + noun | for example : I like germany car .
+
+negative sentences when use this words : like to, need to, want to, have to :
+with use do, does | for example : I don't want to run because I'm sick 
+
+Question sentences when use this words : like to, need to, want to, have to :
+with use do, does | for example : when do you need drive with car ?   OR   Do you want to train to gym or at home ? 
+
+
+make 8 sentences with like to, need to, want to, have to :
+1 = I like to go Oloom Tahghighat university but way has long
+2 = I like buy Porsche Boxter 718s car boy it's very expencive
+3 = I need to drive with my car but I don't car
+4 = I need to go travel but now is not good time
+5 = We want to just speak english in english class
+6 = They want to do exam now
+7 = I have to go to the hospital because my leg is broken
+8 = He has to lesson drive for don't use bus because the air is polluted
+
+
+make 8 negative sentences with like to, need to, want to, have to :
+1 = I don't like to smoke hookah because I'm athlete 
+2 = I don't like to drink caffe every day
+3 = We don't need to lesson with new teacher because We teacher is great
+4 = I don't need to drive because I'm use with public transportation
+5 = I don't want to use Somsung phone because I have Apple phone 
+6 = I don't want to smoke because I'm hate it
+7 = We don't have to learn spanish because don't need
+8 = I don't have use car
+
+make 8 question sentences with like to, need to, want to, have to :
+1 = Do you like to drive with BMW or Benz ? 
+2 = Do you don't like to go gym?
+3 = Do I need to Online learn or normal learn ? 
+4 = Does he need to go out with me ?
+5 = Does she want to eat food ? 
+6 = When time do you want play game with me?
+7 = Where do you have to buy a dress?
+8 = Do you must have to go university now?
+
+
+
+------------------------------- session five and six -------------------------------
+toys = اسباب بازی
+magazine = مجله
+cost = هزینه
+much = بسیار
+goggles = عینک ایمنی
+swears = قسم خوردن
+
+it's $10 = اون 10 دلاره
+shall a we go = آیا ما بریم ؟
+it's over there = اون اونجاست
+how much is that = قیمتش چقدره ؟
+how much is espresso = قیمت اسپرسو چقدره؟
+
+
+$9.99 = (روش خواندن :‌ ناین دالر اند ناینتی ناین سنت)
+
+------------------------------- session seven and eight -------------------------------
+wild = وحشی
+take a sunbath = آفتاب گرفتن
+permission = اجازه
+historical = تاریخی
+
+notes grammer : 
+false and true grammer sentences :
+left = false | right = true
+
+1 _ Do you like swim ? = Do you like swimming ?
+2 _ Are you swimmer ? = Are you a swimmer ? 
+3 _ I don't have permission use my phone = I don't have permission to use my phone 
+4 _ I leave my phone 2 or 3 hours = I leave my phone for 2 or 3 hours
+5 _ I like visit to New York city = I like to visit New York city
+6 _ I can listen voice animals = I can listen to sound of animals 
+7 _ I need to mobile phone always = I always need my mobile phone 
+8 _ I check always my phone = I always check my phone
+9 _ I'm go to the home = I go home
+10 _ She can historical mountents = She can visit historical mountents
+11 _ She is can play ice hokey = She can play ice hokey
+12 _ She comes in Iran = She comes to Iran
+13 _ After day she go  to the sea for dive = the next day she goes  to the sea for a dive
+
+
+------------------------------- session nine and ten -------------------------------
+going to | gonna = قصد دارم | میخواهم |‌ خواهم کرد 
+aunt (speak) = آنت
+walk (speak) = واک
+mentality = ذهنیت
+get = گرفتن
+give = دادن
+out door = فضای باز
+outside = بیرون
+eat outside = بیرون غذا خوردن
+guess = مهمان
+picnic = پیک نیک
+someone = هرکس
+display = نمایش
+exciting =هیجان انگیز
+simple = ساده
+meaning = معنی | منظور
+afraid = ترس
+impolite = بی ادب
+during = در حین
+classmate = همکلاسی
+Cigarettes = سیگار (تلفظ : سیگارت)
+be = شدن | تبدیل شدن (if use after going to is correct)
+
+
+simple future grammer (going to) :
+
+Normal simple future :
+Subject + ToBe + going to | gonna + simple verb
+
+Negative simple future :
+Subject + ToBe + not + going to | gonna + simple verb
+
+note : gonna = going to
+
+نکته : از گویینگ تو میتوان به عنوان پیش بینی های ساده هم استفاده کرد
+
+10 sentences with Normal simple future :
+1 = I'm going to english class tomorrow
+2 = we going to work next week
+3 = my teacher is going to learn franch  
+4 = my aunt is going to USA in the year 2025 
+5 = you are going to buy a new car in the new year
+6 = my dad is going to build a new home 
+7 = my sister is going to sing in the soccer class in the summer
+8 = my cousin is going to leran programming
+9 = they are going to Olom Tahghighat university for the nwe term
+10 = he's going to the pool 
+
+
+10 sentences with Neagtive simple future :
+1 = I'm not going to drink wain during the travel
+2 = I'm not going to learn C#
+3 = my dad is not going to wake up for dinner
+4 = my mom is not going to make pizza for the dinner party
+5 = she's not going to give me her cell phone number
+6 = it's not going to eat food
+7 = Majid is not going to engilsh class for the new term
+8 = Ronaldo is not going to come back to Real madrid
+9 = it's not going to rain tomorrow
+10 = mr Karbalayi not going to new university
+
+
+10 sentences with gonna :
+1 = I'm gonna get Ielts certificate
+2 = I'm gonna learn Django next the SQL
+3 = I'm gonna create startup after 2 year latar = (True : I'm gonna create a startup in two years.)
+4 = my university gruop are gonna go to Abali mountain
+5 = my classmate and I are gonna send offer for got teacher Sajafi Far for new term (True : My classmates and I are gonna send an offer to get Teacher Sajafi Far for the new term.)
+6 = my sister isn't gonna learn to read
+7 = Amir Mahdi isn't gonna smock hookah during new party = (True : Amir Mahdi isn't gonna smoke hookah during the new party.)
+8 = my GF gonna married with me
+9 = I'm gonna manager = (True : I'm gonna be a manager.)
+10 = mehdi isn't gonna smock cigarettes for ever
+
+
+
+
+------------------------------- session eleven and twelve -------------------------------
+winter = زمستان 
+spring = بهار
+fall = پاییز 
+autumn = پاییز
+summer = تابستان
+
+clothes = لباس
+socks = جوراب
+shoes = کفش 
+boots = بوت
+flops = دمپایی
+pants = شلوار 
+jeans = شلوار جین (شلوار های جذب)
+shorts = شرتک
+T-shirt = تی شرت
+shirt = پیراهن
+pajamas = پیژامه (لباس راحتی)
+blouse = بلیز
+hoodie = هودی
+jacket = ژاکت (کاپشن)
+sweater = یقه اسکی
+coat = کت
+skirt = دامن
+dress = دامن بلند
+gloves = دستکش
+tie = کروات
+scarf = شال گردن
+glasses = عینک
+sunglasses = عینک آفتابی
+hat = کلاه
+cap = کلاه کپ
+wear = پوشیدن (تلفظ : وِر)
+warm = گرم (معمولا در موضوع لباس استفاده میشود)
+
+congrats = تبریک
+suggest = پیشنهاد
+suggestion = پیشنهاد کردن
+sounds good = بنظر میرسه خوبه
+refuse = رد کردن |‌ نپذیرفتن
+reason = دلیل
+Opposite = متضاد
+vocabulary = واژگان
+
+for god sake = محض رضای خدا (نوعی قسم دادن)
+
+
+------------------------------- session thirteen and fourteen -------------------------------
+rainy season = فصل بارانی
+dry season = فصل خشک
+sleepy = خوابالو
+impolite = بی ادب
+last night = شب قبل
+somebody = کسی 
+smell = بو
+rubish = آشغال 
+pepper = فلفل
+Invite = دعوت
+host = میزبان
+when = وقتی
+either = مانند همچنین اما برای جملات منفی استفاده میشود
+Laugh = خنده (تلفظ : لَف)
+mention = اشاره
+coin = سکه
+tent = چادر مسافرتی
+while = در حالی که
+hobbies = سرگرمی
+various = گوناگون | مختلف
+club = باشگاه (نه صرفا باشگاه ورزشی مثل باشگاه مشتریان)
+suit = کت و شلوار
+button = دکمه
+uniform = یونیفرم
+pocket = جیب
+Congratulations = تبریک میگویم (تلفظ :‌ کانجِرَجولِیشِن )
+
+play with snow = برف بازی
+in the real world =  در دنیای واقعی
+
+make 10 sentences with "like to, need to, want to, have to" :
+1 = I like to play soccer because soccer has good vibe
+2 = I very like to programming 
+3 = my mom need to drive with car 
+4 = I need to 10 finger type because this is good 
+5 = I want to buy mac book but this is expensive
+6 = I want to go university
+7 = I have to clean my room 
+8 = I have to lesten to music because I need good vibe
+9 = I have to study because tomorrow have exam
+10 = I need to learn programming because I need money
+
+
+------------------------------- session fifteen and exam -------------------------------
+hidden = پنهان
+amusement park = شهربازی (اِمیوزمِنت پارک)
+collar = یقه
+item of clothing = چند آیتم لباس
+put on = پوشیدن (برای لباس)
+take of = در آوردن (برای لباس)
+happened = اتفاق افتادن
+rock, paper, scissor = سنگ - کاغذ - قیچی
+
+نکته : 
+تفاوت wear و put :
+کسی داره لباس تن خود میکنه باید از put استفاده کند
+اما کسی که لباسی از قبل تنش است از wear استفاده میکند
+
+نکته : 
+هرجوری ازتون سوال پرسیدن شما هم به همان شکل جواب دهید
+برای مثال :
+اگر سوال ازتان با ing یا حال استمراری پرسیده شد شما هم با همان شکل پاسخ دهید
+
+
+
+------------------------------- Finish 105 -------------------------------
+
+
+
+
+
+
+

@@ -1,0 +1,519 @@
+------------------------------- Importent grammar words ------------------------------- 
+with : با
+to : به | تا
+in, on, at = بر |‌ در
+for : برای
+but : اما
+can = میتوانم
+from = در
+then = سپس
+by = توسط 
+I have =  من دارم
+There is = وجود دارد
+his = او (مرد)
+her = او (زن)
+so = بنابراین | پس
+as = مثل
+get = گرفتن
+that = که 
+that's = یعنی
+if = اگر
+do / does = انجام دادن (دومین دو یا داز جمله به این معنی است)
+ago = پیش | قبل ( for example : two day ago = دو روز پیش )
+there  = آنجا | اینجا
+also : همچنین
+use : استفاده کردن
+give : بده
+well = خوب
+another = یک دیگر
+
+------------------------------- Importent words -------------------------------
+say = گفتن
+for example : برای مثال
+Because = زیرا 
+now = الان 
+maybe = شاید
+More = بیشتر
+I mean = بنظرم
+feel = احساس
+in my opinion = به نظر من
+must = باید
+find = پیدا کردن
+Of course : البته
+Yesterday = دیروز
+Tomorrow = فردا
+Importent = مهم
+Sentence / Sentences : جملات / جمله
+Episode = قسمت
+Season = (تلفظ : سیزن)  فصل 
+session =  (تلفظ : سشن) جلسه
+Part = بخش
+busy = شلوغ
+weather = آب و هوا (برای استفاده از هواشناسی)
+air = هوا (برای استفاده کلی)
+sky = آسمان
+earth = زمین
+carefull  = با دقت
+uncle = عمو, دایی
+aunt's husband = شوهر خاله |‌ شوهر عمه
+aunt = عمه, خاله, زنمو, زندایی
+Grand mother = مادر بزرگ
+grand father = پدر بزرگ
+cousin = دختر عمو,  دختر دایی,  دختر خاله,  دختر  دایی, پسر عمو,  پسر دایی,  پسرخاله,  پسر دایی 
+husband = همسر (آقا)
+wife = همسر (خانم)
+near = نزدیک
+human = انسان
+people = مردم
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+last = آخرین یا آخر
+come = بیا
+naibarhood = همسایگی |‌ نزدیکی
+all of them = همش
+kind = نوع
+remember = یاد آوری
+Key : کلید
+floor : طبقه | کف زمین
+Think:   فکر
+snack = میان وعده
+sure : حتما
+informall = غیر رسمی
+formall = رسمی
+owner = صاحب
+buy = خرید
+place = محل
+agree = موافق
+want = میخوام
+need = نیاز داشتن 
+Idea = فکر | ایده
+opinion = نظر
+expensive =  گران
+cheap = ارزان
+things = چیزها 
+popular = محبوب
+useful = مفید
+capital city = پایتخت
+salesperson = فروشنده
+friendly = دوستانه
+young = جوان
+Positive = مثبت
+negative = منفی
+blace you = آفیت باشه 
+goal = هدف
+professional =  حرفه ای
+bread = نان
+sad = غمگین 
+per cent = درصد
+
+------------------------------- Question words ------------------------------- 
+why : چرا؟
+where : کجا؟
+Who = چه کسی؟
+what = چی؟ | چه؟ | چیست؟
+when = چه زمانی؟
+How = چطور؟ | چگونه؟
+How many = چند تا؟
+can i = میتونم؟
+do / does = آیا؟ (اولین دو یا داز جمله به این معنی است)
+which = کدام ؟
+
+------------------------------- Question sentences------------------------------- 
+Hwo is your best friend?
+Can i drink a water?
+Where is your favorite cafe?
+what is your name ?
+what do you do?
+Does she know how to play the soccer?
+How old are you ?
+when is your birthday?
+How many soccer players are there?
+Which page ?
+
+------------------------------- Idioms english ------------------------------- 
+no way = برای زمانی که سورپرایز میشویم (شبیه نه بابا در فارسی)
+your welcome = خواهش میکنم
+It's that way = همینجاهاس
+terrible = متنفر ـ خیلی بد ـ افتضاح 
+
+------------------------------- Forget words ------------------------------- 
+Episode = قسمت
+Season = (تلفظ : سیزن)  فصل 
+session =  (تلفظ : سشن) جلسه
+Part = بخش
+Autumn = پاییز 
+article = مقاله
+compare = مقایسه
+imagine = تصور کردن
+prepare = آماده کردن
+discuss = بحث, گفتگو
+decide = تصمیم گرفتن
+food truck = غذای خیابانی
+lake = دریاچه
+Sea = دریا
+same = یکسان
+North = شمال
+East = شرق
+west = غرب
+South = جنوب
+soccer court = زمین فوتبال (نکته : کورت خالی به معنای دادگاه است و با یک ورزش بیاید به معنای زمین آن ورزش میشود)
+everywhere = همه جا
+somewhere = جایی
+anywhere = هرجا (برای جملات منفی یا سوالی است)
+nowhere = هیچ جا
+statue = مجسمه
+opinion = نظر
+dam = سد
+seals = فُک
+volcano = آتشفشان 
+hiking = پیاده روی
+climbing = سنگ نوردی
+Hanger = جا لباسی
+Blanket = پتو
+Pillow = بالشت
+Wall: دیوار
+Ceiling: سقف
+init =  شروع
+
+------------------------------- about grammer ------------------------------- 
+
+حال ساده | simple present : در این زمان در مورد اعمال و واقعیت‌های عمومی یا عادات صحبت می‌شود. (I go to the gym every morning.)
+حال استمراری | present continuous : در این زمان در مورد عملی صحبت می‌شود که در حال انجام در حال حاضر است. (She is reading a book right now)
+حال کامل | present perfect : این زمان برای بیان اعمالی استفاده می‌شود که در گذشته آغاز شده و تا حالا ادامه داشته یا به پایان رسیده‌اند. (I have visited Paris)
+حال کامل استمراری | Present perfect continuous : این زمان برای بیان عملی استفاده می‌شود که از گذشته آغاز شده و تا حالا ادامه داشته باشد. (They have been playing tennis all afternoon)
+
+گذشته ساده | Simple past : زمان گذشته ساده برای بیان اعمال یا وقایعی استفاده می‌شود که در گذشته رخ داده و به پایان رسیده‌اند. (She traveled to Japan last year.)
+گذشته استمراری | past continuous : زمان گذشته استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در گذشته در حال ادامه داشته‌اند. (I was studying when the phone rang)
+گذشته کامل استمراری | past Perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در گذشته تا یک زمان خاص ادامه داشته و به پایان رسیده‌اند (He had been working for 10 hours before he took a break)
+گذشته کامل | past Perfect : زمان گذشته کامل برای بیان این استفاده می‌شود که یک عمل در گذشته قبل از یک عمل دیگر آغاز شده و به پایان رسیده است. (By the time she arrived, the movie had already started)
+
+آینده ساده | simple future : زمان آینده ساده برای بیان عملی استفاده می‌شود که در آینده رخ خواهد داد. (I will call you tomorrow)
+آینده استمراری | Continuous future : زمان آینده استمراری برای بیان عملی استفاده می‌شود که در یک زمان خاص در آینده در حال ادامه خواهد داشت. (This time next week, I will be studying for my exams)
+آینده کامل | future perfect : زمان آینده کامل برای بیان این استفاده می‌شود که یک عمل در آینده تا یک زمان خاصی ادامه داشته و به پایان می‌رسد. (By the time you arrive, I will have finished my work)
+آینده کامل استمراری | Future perfect continuous : این زمان برای بیان عملی استفاده می‌شود که در آینده تا یک زمان خاصی ادامه داشته و به پایان خواهد رسید. (By this time next year, I will have been working here for a decade)
+
+
+فعل | verb: عمل یا کاری که انجام می‌شود (مثال: "is reading" در جمله "John is reading a book.")
+صفت | adjective : ویژگی یا صفتی که به فاعل یا مفعول اضافه می‌شود تا بیان کند چگونه یا چه نوعی هستند. (مثال: "interesting" در جمله "John is reading an interesting book.")
+فاعل | Subject : کسی که عمل را انجام می‌دهد یا به کاری مشغول است (مثال: "John" در جمله "John is reading a book.")
+مفعول | object : مفعول یک نقش گرامری است که توسط یک فعل به عنوان هدف یا مقصد عمل مشخص می‌شود و کاری روی آن انجام میشود (در جمله "John is reading a book."، "book." مفعول است.)
+
+
+------------------------------- First session -------------------------------
+put = قرار دادن
+wash = شستشو
+dish = ظرف
+
+man (one)      =      men (2 to top)
+woman (one)      =      women (2 to top)
+child (one)      =      children (2 to top)
+person (one)      =      people (2 to top)
+
+10 verb word :         run _ start _ exercise _ study _ clean _ have _ write _ put _ help _ use
+10 adjective word  :         careful _ great _ excellent _ good _ bad _ nice _ happy _ smart _ boring _ cute
+
+چه زمانی از ing استفاده میکنیم ؟
+زمانی که میخواهیم بگوییم همین الان داریم چکاری انجام میدهیم
+
+مثال : من دارم به باشگاه میروم : 
+I'm going to the gym
+
+نکته : روی ورب یا همان فعل ing میاید
+for example :
+I'm brushing my teeth
+I'm writing in English
+I'm programming
+I'm swimming
+she's studying
+they're playing soccer
+we're watching football
+she's cleaning house
+he's washing car
+I'm having food
+
+------------------------------- Second session -------------------------------
+now = الان 
+right now = همین الان 
+at the moment = همین لحظه
+around now = همین حوالی
+moment = لحظه
+his = او (مرد)
+her = او (زن)
+hate = نفرت
+our = ما
+get = گرفتن
+train = تمرین (معمولا برای تمرین در اماکن ورزشی استفاده میشود)
+practice = تمرین (معمولا برای تمرین های درسی استفاده میشود)
+exercise = ورزش
+exhausted = خیلی خسته
+
+51 importent verb words :
+Go, Get ,Have, Do, Make, Say, See, Look, Like, Know, Think, Take, Come, Want, Use, Find, Give, Tell, Ask, Work, Call, Learn, 
+Love, Try, Need, Help, Play, Live, Move, Ask, Try, Seem, Leave, Follow, Change, Believe, Read, Open, Close, Start, Stop, Write, 
+Include, Continue, Watch, Show, Listen, Plan, Remember, exercise
+
+
+نکته :‌برای منفی کردن گذشته یا روتین از dont, doesnt استفاده میکنیم
+اما برای منفی کردن همین الان یا جمله ای که ing دارد از not استفاده میکنیم
+
+grammar present continuous(ing) :
+Positive sentences : Subject + tobe + verb(ing) + object
+Negative sentences : Subject + tobe + not + verb(ing) + object
+
+for example (10 positive and negetive sentences) :
+( + ) I'm playing soccer              ( - ) I'm not playing soccer 
+( + ) I'm going to the gym         ( - ) I'm not going to the gym
+( + ) I'm doing home work         ( - ) I'm not doing home work
+( + ) I'm waching soccer             ( - ) I'm not waching soccer
+( + ) I'm washing my car             ( - ) I'm not washing my car 
+( + ) I'm programming                ( - ) I'm not programming 
+( + ) I'm training in the gym       ( - ) I'm not training in the gym
+( + ) I'm practicing math             ( - ) I'm not practicing math 
+( + ) I'm helping you                    ( - ) I'm not helping you
+( + ) I'm living in LA                      ( - ) I'm not living in LA
+
+------------------------------- Third session -------------------------------
+carry = حمل 
+fly = پرواز
+wrong = اشتباه
+transportation = حمل و نقل
+subway = مترو
+doubt = شک
+arrive = رسیدن
+road = جاده
+unfortunately = متاسفانه (تلفظ : آن فورچینتلی)
+fortunately = خوشبختانه
+rush hour = ساعت شلوغی
+speed limit = محدودیت سرعت 
+dressed =  پوشیدن
+daily = روزانه
+meal = وعده غذایی
+stay = اقامت
+truck = کامیون
+bike = دوچرخه
+motorway = بزرگراه
+
+------------------------------- Fourth session -------------------------------
+make yes|no question :
+Tobe + sub + verb(ing) + obj ?
+For example : Are you whashing your car ?
+
+make WH question :
+WH + Tobe + sub +  verb(ing) ?
+For example : What are you doing ?
+
+5 sentences positive and negative :
+I'm washing my car | I'm not washing my car 
+I'm training in the gym | I'm not training in the gym
+I'm playing soccer | I'm not playing soccer
+I'm programming | I'm not programming
+I'm going to the gym | I'm not going to the gym
+
+5 sentences Yes|no question :
+Are you playing soccer ?
+Are we studing english ?
+Am I going to the hospital ?
+Is he whatching the ufc ?
+Are they going to the work ?
+
+5 sentences WH question :
+what are you doing now ?
+where are you going ?
+Which page should I reading ?
+when are you going to the gym ?
+How many people play soccer on the soccer court ?
+
+------------------------------- nineth and tenth session -------------------------------
+eyes = چشم ها  
+skils = مهارت ها
+sew = دوختن 
+blace you = آفیت باشه 
+draw = طراحی 
+make = ساختن
+bake = پختن (فقط برای کیک و خانواده کیک ها مثل کوکی استفاده میشود)
+difficult = مشکل 
+fix = تعمیر (یکی از معانی آن تعمیر است)
+fix car = تعمیر ماشین
+sing = آواز خواندن 
+surf = موج سواری
+snowboard = اسکیت (برای برف)
+swim = شنا 
+why not = چرا نه؟
+bake a cake = کیک پختن
+I can swim = من میتوانم شنا کنم
+I can point well = من میتوانم به خوبی نقاشی کنم
+I can't run = من نمیتوانم بدوام
+can I drink a water = میتوانم آب بخورم ؟
+coworker = همکار 
+workers  = کارمندان | کرمندان (کار کنان)
+break  = استراحت 
+take = گرفتن 
+meet = جلسه
+work hard = کار سخت
+ordinary = معمولی (معمولا در حوزه کار استفاده میشود)
+feel = احساس 
+each = هریک
+belong = متعلق
+factory = کارخانه
+salary = حقوق
+advertising = تبلیغات
+army = ارتش
+secretary = منشی
+money = پول
+kids = بچه ها
+only = فقط 
+of us = از ما
+possible = ممکن
+
+
+make positive sentences with "can" :
+I can play soccer  
+you can go to the home 
+we can speak english 
+they can swim
+she can draw 
+he can make pizza
+It can play frisbee 
+
+make negative sentences with "can" :
+I can't play guitar 
+You can't watch TV
+we can't speak franch
+they can't wash car well
+she can't bak cake well
+he can't sing
+It can't understand my words
+
+make question sentences with "can" :
+Can I go to the restroom ?
+Can You go to the escape room?
+Can we play Mafia game ?
+Can they rest ?
+Can she makeup ?
+Can he install instagram app ?
+Can it go to the park ?
+
+
+where does he work =  کجا کار می کند؟
+what does he do = او چه کار می کند؟
+who does he work for = او برای چه کسی کار می کند؟
+what hours does she work = او چه ساعتی کار می کند؟
+how much does he earn = چقدر درآمد دارد؟
+
+------------------------------- eleventh and twelfth session -------------------------------
+maybe = شاید
+fired = اخراج
+hookah = قلیان
+there = آنجا | اینجا
+subject = موضوع
+smock = سیگار | دود کردن
+rich = ثروتمند
+take a break = استراحت کردن
+soccer field = زمین فوتبال
+interview = مصاحبه
+right person = فرد درست
+together = با یکدیگر
+only = فقط 
+I mean = بنظرم
+future = آینده
+hours = ساعت (تلفظ : هاوِرس)
+difficult = دشوار
+feel = احساس
+
+نکته : زمانی که از کن استفاده میکنیم از گرامر حال استمراری یا آی ان جی استفاده نکنیم
+
+make sentences with WH question :
+
+wh q + can | can't + person | things + simple verb + ?
+
+for example :
+where can theachers rest ?
+what can they do there ?
+who can help me ?
+
+
+------------------------------- thirteenth and fourteenth session -------------------------------
+bread = نان
+athlete = ورزشکار
+missing = گم شده 
+sad = غمگین 
+quality = کیفیت 
+without = بدون 
+advertisement = آگهی
+experience = تجربه
+aplly = درخواست
+offer = پیشنهاد
+filled = پر شده
+little = کم 
+help us = کم به ما
+in my opinion = به نظر من
+per cent = درصد 
+repairman = تعمیرکار
+some one = کسی
+
+say = I , we , they , you 
+says = he , she , it
+
+نکته : اگر بخواهیم از حرف های شخصی یک جمله را انتخاب کنیم و راجب آن نظر دهیم باید حرف های آن شخص را در دابل کوتیشن بگذاریم و سپس نظر خود را بگوییم
+For example :
+Jack : Barcelona team is good but I love Real madrid 
+Me : Jack says "I love Real madrid" , I agree with this pard to sentence
+
+
+------------------------------- fifteen and exam session -------------------------------
+well = خوب
+goal = هدف
+steb by step = پله پله
+reach = رسیدن
+rich = ثروتمند
+definition = تعریف
+another = یک دیگر
+find = پیدا کردن
+1000 = one thousand (وان تاوزِنت)
+professional = حرفه ای
+must = باید
+describe = توصیف کنید
+involve = شامل
+building = ساختمان
+client | customer = مشتری
+report = گزارش
+spend = خرج کردن
+will = اراده
+
+
+------------------------------- FINISH TERM 104 -------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
