@@ -76,10 +76,18 @@ their tshert is long
 
 
 ------------------------------- session five and six -------------------------------
+seriously(n) = به طور جدی (سیریِسلی)
+pretty(adj) = قشنگ؛ نسبتا (پِرتی)
+across(adverb) = از این طرف به آن طرف
+pain(n, v) = درد
+apprentice(n, v) = شاگرد | کارآموز (əˈprentəs | اَپِرنتِس)
+wish(n, v) = آرزو 
+dear(n, adj) = عزیز
+attach(v) = وصل کردن
 
 
 
-
+------------------------------- session seven and eight -------------------------------
 
 
 
