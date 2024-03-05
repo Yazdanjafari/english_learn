@@ -88,8 +88,43 @@ attach(v) = وصل کردن
 
 
 ------------------------------- session seven and eight -------------------------------
+common(n, adj) = مشترک (کامِن | kɒmən)
+probability(n) = احتمال (پابِبیلیتی |‌ prɒbəˈbɪləti)
+twins(n, adj) = دو قلو (تویینز | twınz) 
+kidding(v) = شوخی کردن 
+tidy(v, n, adj) = منظم |‌ تمیز (تایدی ‌|‌ taɪdi)
+workmate(n, adj) = همکار 
+almost(adv) = تقریبا 
+divorce (v, n) = طلاق (دیوارس | dəˈvɔːs)
 
 
 
+------------------------------- session nine and ten -------------------------------
+classmate(n) = هم کلاسی 
+groupmate(n) = هم گروهی
+workmate(n) = هم کار
+laundry(n) = لباسشویی
+schedule(n, v) = برنامه زمانی (اسکِچوآل |‌ skedʒʊl)
+organize(v) = سازمان دادن
+
+do the dishes = شستن ظرف ها
+do the laundry = شستن لباس 
+do the housework = انجام کارهای خانه (روتین خانه)
+do some work = انجام برخی کارها 
+
+have a party = پارتی گرفتن |‌ مهمانی گرفتن
+have free time = داشتن وقت آزاد
+have a snack = داشتن میان وعده
+have something to drink = داشتن چیزی برای نوشیدن
+
+make the bed = رخت خواب را درست کنید
+make plans = برنامه ای درست کردن
+
+furmol make sentences with simple present :
+Make sentences : pronoun + verb + time OR place 
+Make negative sentences : pronoun + don't | doesn't + verb + time OR place 
+Make question sentences : wh question + do | does + pronoun + verb + time OR place 
 
 
+
+------------------------------- session eleven and twelve -------------------------------
