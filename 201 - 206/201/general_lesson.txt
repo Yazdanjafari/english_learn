@@ -118,7 +118,11 @@ cash(n) = پول نقد
 absolutely(v) = کاملا
 solider(v, n) = سرباز (سولجِر)
 sir(n) = آقا (سِر)
-
+Cheers(n) = به سلامتی (کِرِیس | برای سلامتی زدن در نوشیدن مشروب این لقظ استفاده میشود و منظورش همان سلامتی است)
+Maximum(n, adj) = بیشترین |‌ حداکثر 
+Minimum(n, adj) =  حداقل | کمترین
+most(adj) = بیشتر ... (حدود 80%) 
+Some(adj) = بعضی
 
 ------------------------------- Question words ------------------------------- 
 why : چرا؟
@@ -140,19 +144,14 @@ how long = چه مدت ؟
 going to = gonna 
 want to = wanna
 I would = I'd
+I will = I'll
 
+------------------------------- famous sentences------------------------------- 
+here you are = بفرمایید
+rest in peace = روحش شاد
+don't worry = نگران نباش 
+in my point of view = از نگاه من
 
-------------------------------- Question sentences------------------------------- 
-Hwo is your best friend?
-Can i drink a water?
-Where is your favorite cafe?
-what is your name ?
-what do you do?
-Does she know how to play the soccer?
-How old are you ?
-when is your birthday?
-How many soccer players are there?
-Which page ?
 
 
 ------------------------------- Idioms english ------------------------------- 
@@ -164,11 +163,6 @@ I got it = فهمیدم  (برای جاهای رسمی استفاده نمیشو
 rest in peace (contraction : R.I.P) = روحش شاد | روحش در آرامش 
 take away = بیرون بر (برای غدا استفاده میشود)
 here you are = بفرمایید
-
-
-------------------------------- famous sentences ------------------------------- 
-in my point of view = از نگاه من
-in my book = به اندیشه من
 
 
 ------------------------------- bad words ------------------------------- 
@@ -232,7 +226,7 @@ take of = در آوردن (برای لباس)
 
 
 
-------------------------------- good vibe subject ------------------------------- 
+------------------------------- good vibe adjective ------------------------------- 
 good = خوب
 nice = خوب
 fine = خوب
@@ -574,6 +568,11 @@ pronone :  I, he, she, it, you, we, they
 
 
 ------------------------------- english formulas ------------------------------- 
+Simple present :
+Make sentences : pronoun + verb + time OR place 
+Make negative sentences : pronoun + don't | doesn't + verb + time OR place 
+Make question sentences : wh question + do | does + pronoun + verb + time OR place
+
 ING :
 Make sentences with ING : Subject + Tobe + verb(ing) + ...
 Make negative sentences with ING : Subject + Tobe + not + verb(ing) + ...
@@ -600,10 +599,7 @@ Make sentences with would : subject + would + ...
 Make negative sentences with would not : subject + wouldn't or would not + ...
 Make question sentences with would : wh question + would + subject + ...
 
-Simple present :
-Make sentences : pronoun + verb + time OR place 
-Make negative sentences : pronoun + don't | doesn't + verb + time OR place 
-Make question sentences : wh question + do | does + pronoun + verb + time OR place 
+ 
 
 
 
