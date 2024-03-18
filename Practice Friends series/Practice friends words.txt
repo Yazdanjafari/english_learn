@@ -2,7 +2,7 @@ ________________________________ Episode 1 time to 10 min ______________________
 gotta = مجبور بودن
 hump = قوز کردن
 hair piece = کلاه گیس 
-chalk = گچ
+chalk = گچ (چاک)
 through = از میان (ثَُرو)
 sound = صوت | به نظر رسیدن
 middle = وسط، متوسط
@@ -11,7 +11,7 @@ totally = کاملا
 naked = لخت
 dream = رویا دیدن | خواب دیدن
 instead = در عوض
-sudden = ناگهان
+sudden = ناگهان (سان)
 weird = عجیب (ویِرد)
 myself = خودم
 sweetie = عزیزم
@@ -30,14 +30,13 @@ strip joints = کاباره | کلوپ رقص بدون لباس
 hammer = چکش
 might = ممکن
 decaf = بدون کافئین
-survivor = بازمانده
+survivor = بازمانده (سو وایوِر)
 tell us = به ما بگو
 wet = مرطوب
 bridesmaids = ساقدوش ها (بِرایدز مِید)
 half-hour = نیم ساعت
-gravy = سس
-gorgeous = زیبا
-sudden = ناگهانی
+gravy = سس گریوی (نوعی سس برای مزه دار کردن گوشت که معمولا در ظرف های قایقی شکل قرار میگیرد)
+gorgeous = زیبا | شکیل (گارجِس )
 freaked = ترسیده
 hit = ضربه
 familiar = آشنا
@@ -68,7 +67,7 @@ catch = گرفتن
 pulled = تحلیل رفته | شکسته شده 
 eyelash = مژه (آیلَش)
 supposed = فرضی
-haneymoon = ماه عسل
+honeymoon = ماه عسل
 though = هر چند
 lizards = مارمولک
 hang = آویزان
@@ -78,7 +77,27 @@ attach = وصل کردن
 bunch = دسته
 worm = کرم
 whatsoever = به هیچ وجه | ابدا
+established = ایجاد
+decision = تصمیم گیری (دِسیشِن)
+moved = نقل مکان کردن
+guy = مرد
+push = حل دادن 
+
+
+
 hitting on = مخ زدن
+come on = بیخیال 
+go on = ادامه بده
+wate a minute = یک دقیقه صبر کن
+I wanna kill myself = من میخوام خودمو بکشم
+Are you okay sweetie = اوکیی عزیزم ؟
+I feel = من حس میکنم
+To hell weth her = منو برد به جهنم خودش
+lesten to me = به من گوش کن
+who's Ali = علی کیه ؟
+I have no idea = من ایده ای ندارم
+that's right = درسته 
+come in = بیا تو
 
 
 
@@ -86,3 +105,12 @@ I've = I have
 we've = we have
 I'll = I will
 wanna = want to
+
+
+grammer note : 
+if "the" was before word with (a, e, o, i, u) we don't say "the", we say "thi"
+for example : what the awnser is  = وات دی انسر ایس ؟ 
+
+
+
+________________________________ Episode 1 time 10 min to the end ________________________________ 
