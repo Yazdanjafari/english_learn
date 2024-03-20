@@ -132,6 +132,7 @@ be = باش
 could = توانستن، ممکن بودن
 might = ممکن 
 kiss me = بوس بده
+Categories = دسته بندی
 
 
 
